@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {NavLink} from 'react-router-dom';
 import './App.css'
-import BottomBar from './BottomBar';
+
 
 class Home extends Component {
     state = {  }
